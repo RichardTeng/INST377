@@ -1,0 +1,30 @@
+#resume_top {
+	text-align: center;
+
+}
+#name {
+	font-size: 30px;
+	background-color: blue;
+}	
+#phone_number {
+	font-size: 18px;
+}
+#email {
+	font-size: 18px;
+	color: blue;
+}
+.resume_sections{
+		text-align: center;
+
+}
+.section_info{
+	text-align: center;
+	border-style: solid;
+	margin-top: 30px;
+ 	margin-bottom: 30px;
+  	margin-right: 150px;
+  	margin-left: 150px;
+}
+#outlook {
+	background-color: ivory;
+}
