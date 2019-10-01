@@ -36,18 +36,18 @@ body {
 	text-align: center;
 	text-decoration: underline;	
 }
-#outlook {
+/*#outlook {
 	background-color: ivory;
 	display: inline-block;
-}
+}*/
 .outlook_text {
   	text-align: center;
 	font-size: 14px;	
 }
-#experience_info {
+/*#experience_info {
 	background-color: ivory;
 	display: inline-block;
-}
+}*/
 /* this section consist of 3 classes which make the body of the job entries */
 .job_company{
 	text-align: left;
